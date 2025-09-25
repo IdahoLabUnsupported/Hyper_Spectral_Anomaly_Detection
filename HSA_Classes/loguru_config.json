@@ -1,0 +1,1 @@
+{"handlers": [{"sink": "./image_gpu_outputs/andromeda/logs/HSA_loguru.log", "level": "INFO", "format": "{time} {level} {message}", "colorize": true}]}
